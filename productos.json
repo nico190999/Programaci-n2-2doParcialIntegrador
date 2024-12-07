@@ -1,0 +1,358 @@
+[
+  {
+    "fechaVencimiento": "03/01/2025",
+    "refrigeracionRequerida": "NO",
+    "codigo": "d13ce9a4-a87f-438e-a737-0bdedaa9e9c1",
+    "tipo": "Alimento",
+    "nombre": "Arroz",
+    "precio": 100.0,
+    "stock": 8
+  },
+  {
+    "fechaVencimiento": "03/01/2025",
+    "refrigeracionRequerida": "NO",
+    "codigo": "d13ce9a4-a87f-438e-a737-0bdedaa9e9c1",
+    "tipo": "Alimento",
+    "nombre": "Arroz",
+    "precio": 100.0,
+    "stock": 8
+  },
+  {
+    "fechaVencimiento": "03/01/2025",
+    "refrigeracionRequerida": "NO",
+    "codigo": "d13ce9a4-a87f-438e-a737-0bdedaa9e9c1",
+    "tipo": "Alimento",
+    "nombre": "Arroz",
+    "precio": 100.0,
+    "stock": 8
+  },
+  {
+    "fechaVencimiento": "03/01/2025",
+    "refrigeracionRequerida": "NO",
+    "codigo": "d13ce9a4-a87f-438e-a737-0bdedaa9e9c1",
+    "tipo": "Alimento",
+    "nombre": "Arroz",
+    "precio": 100.0,
+    "stock": 8
+  },
+  {
+    "fechaVencimiento": "11/12/2024",
+    "refrigeracionRequerida": "SI",
+    "codigo": "7bf23801-f6bb-44b9-9d30-0912781af555",
+    "tipo": "Alimento",
+    "nombre": "Fideos",
+    "precio": 50.0,
+    "stock": 14
+  },
+  {
+    "fechaVencimiento": "11/12/2024",
+    "refrigeracionRequerida": "SI",
+    "codigo": "7bf23801-f6bb-44b9-9d30-0912781af555",
+    "tipo": "Alimento",
+    "nombre": "Fideos",
+    "precio": 50.0,
+    "stock": 14
+  },
+  {
+    "garantiaMeses": 24,
+    "categoriaEnergetica": "C",
+    "codigo": "35421049-b771-4ece-a541-1f14d4cadae7",
+    "tipo": "Electrodomestico",
+    "nombre": "Freezer",
+    "precio": 45.0,
+    "stock": 45
+  },
+  {
+    "garantiaMeses": 24,
+    "categoriaEnergetica": "C",
+    "codigo": "35421049-b771-4ece-a541-1f14d4cadae7",
+    "tipo": "Electrodomestico",
+    "nombre": "Freezer",
+    "precio": 45.0,
+    "stock": 45
+  },
+  {
+    "garantiaMeses": 24,
+    "categoriaEnergetica": "C",
+    "codigo": "35421049-b771-4ece-a541-1f14d4cadae7",
+    "tipo": "Electrodomestico",
+    "nombre": "Freezer",
+    "precio": 45.0,
+    "stock": 45
+  },
+  {
+    "garantiaMeses": 24,
+    "categoriaEnergetica": "C",
+    "codigo": "35421049-b771-4ece-a541-1f14d4cadae7",
+    "tipo": "Electrodomestico",
+    "nombre": "Freezer",
+    "precio": 45.0,
+    "stock": 45
+  },
+  {
+    "garantiaMeses": 12,
+    "categoriaEnergetica": "A",
+    "codigo": "0c1603c8-f0ba-4e5f-bec9-8f6e256ea7e0",
+    "tipo": "Electrodomestico",
+    "nombre": "Horno Electrico",
+    "precio": 500000.0,
+    "stock": 15
+  },
+  {
+    "garantiaMeses": 12,
+    "categoriaEnergetica": "A",
+    "codigo": "0c1603c8-f0ba-4e5f-bec9-8f6e256ea7e0",
+    "tipo": "Electrodomestico",
+    "nombre": "Horno Electrico",
+    "precio": 500000.0,
+    "stock": 15
+  },
+  {
+    "fechaVencimiento": "15/11/2025",
+    "refrigeracionRequerida": "SI",
+    "codigo": "518bb786-fb2d-484e-bc69-d8e42352412a",
+    "tipo": "Alimento",
+    "nombre": "Jamon",
+    "precio": 500.0,
+    "stock": 12
+  },
+  {
+    "fechaVencimiento": "15/11/2025",
+    "refrigeracionRequerida": "SI",
+    "codigo": "518bb786-fb2d-484e-bc69-d8e42352412a",
+    "tipo": "Alimento",
+    "nombre": "Jamon",
+    "precio": 500.0,
+    "stock": 12
+  },
+  {
+    "fechaVencimiento": "19/11/2027",
+    "refrigeracionRequerida": "NO",
+    "codigo": "632581d4-4939-4003-9ba9-3848e8866b34",
+    "tipo": "Alimento",
+    "nombre": "Jugo",
+    "precio": 50.0,
+    "stock": 10
+  },
+  {
+    "fechaVencimiento": "19/11/2027",
+    "refrigeracionRequerida": "NO",
+    "codigo": "632581d4-4939-4003-9ba9-3848e8866b34",
+    "tipo": "Alimento",
+    "nombre": "Jugo",
+    "precio": 50.0,
+    "stock": 10
+  },
+  {
+    "fechaVencimiento": "19/11/2027",
+    "refrigeracionRequerida": "NO",
+    "codigo": "632581d4-4939-4003-9ba9-3848e8866b34",
+    "tipo": "Alimento",
+    "nombre": "Jugo",
+    "precio": 50.0,
+    "stock": 10
+  },
+  {
+    "fechaVencimiento": "19/11/2027",
+    "refrigeracionRequerida": "NO",
+    "codigo": "632581d4-4939-4003-9ba9-3848e8866b34",
+    "tipo": "Alimento",
+    "nombre": "Jugo",
+    "precio": 50.0,
+    "stock": 10
+  },
+  {
+    "garantiaMeses": 24,
+    "categoriaEnergetica": "C",
+    "codigo": "93d49ee9-543a-4a38-bc24-9e10a3cdeb5c",
+    "tipo": "Electrodomestico",
+    "nombre": "Lavarropas",
+    "precio": 1000000.0,
+    "stock": 20
+  },
+  {
+    "garantiaMeses": 24,
+    "categoriaEnergetica": "C",
+    "codigo": "93d49ee9-543a-4a38-bc24-9e10a3cdeb5c",
+    "tipo": "Electrodomestico",
+    "nombre": "Lavarropas",
+    "precio": 1000000.0,
+    "stock": 20
+  },
+  {
+    "garantiaMeses": 24,
+    "categoriaEnergetica": "C",
+    "codigo": "93d49ee9-543a-4a38-bc24-9e10a3cdeb5c",
+    "tipo": "Electrodomestico",
+    "nombre": "Lavarropas",
+    "precio": 1000000.0,
+    "stock": 20
+  },
+  {
+    "garantiaMeses": 24,
+    "categoriaEnergetica": "C",
+    "codigo": "93d49ee9-543a-4a38-bc24-9e10a3cdeb5c",
+    "tipo": "Electrodomestico",
+    "nombre": "Lavarropas",
+    "precio": 1000000.0,
+    "stock": 20
+  },
+  {
+    "garantiaMeses": 24,
+    "categoriaEnergetica": "A",
+    "codigo": "598f260c-98cb-49de-ba10-56ef7425d043",
+    "tipo": "Electrodomestico",
+    "nombre": "Lavavaillass",
+    "precio": 200000.0,
+    "stock": 54
+  },
+  {
+    "garantiaMeses": 24,
+    "categoriaEnergetica": "A",
+    "codigo": "598f260c-98cb-49de-ba10-56ef7425d043",
+    "tipo": "Electrodomestico",
+    "nombre": "Lavavaillass",
+    "precio": 200000.0,
+    "stock": 54
+  },
+  {
+    "garantiaMeses": 24,
+    "categoriaEnergetica": "A",
+    "codigo": "598f260c-98cb-49de-ba10-56ef7425d043",
+    "tipo": "Electrodomestico",
+    "nombre": "Lavavaillass",
+    "precio": 200000.0,
+    "stock": 54
+  },
+  {
+    "garantiaMeses": 24,
+    "categoriaEnergetica": "A",
+    "codigo": "598f260c-98cb-49de-ba10-56ef7425d043",
+    "tipo": "Electrodomestico",
+    "nombre": "Lavavaillass",
+    "precio": 200000.0,
+    "stock": 54
+  },
+  {
+    "fechaVencimiento": "20/11/2024",
+    "refrigeracionRequerida": "NO",
+    "codigo": "2d19d7e3-e040-4d4f-98a9-ff79a94fb847",
+    "tipo": "Alimento",
+    "nombre": "Leche",
+    "precio": 1000.0,
+    "stock": 38
+  },
+  {
+    "fechaVencimiento": "20/11/2024",
+    "refrigeracionRequerida": "NO",
+    "codigo": "2d19d7e3-e040-4d4f-98a9-ff79a94fb847",
+    "tipo": "Alimento",
+    "nombre": "Leche",
+    "precio": 1000.0,
+    "stock": 38
+  },
+  {
+    "fechaVencimiento": "20/11/2024",
+    "refrigeracionRequerida": "NO",
+    "codigo": "2d19d7e3-e040-4d4f-98a9-ff79a94fb847",
+    "tipo": "Alimento",
+    "nombre": "Leche",
+    "precio": 1000.0,
+    "stock": 38
+  },
+  {
+    "fechaVencimiento": "20/11/2024",
+    "refrigeracionRequerida": "NO",
+    "codigo": "2d19d7e3-e040-4d4f-98a9-ff79a94fb847",
+    "tipo": "Alimento",
+    "nombre": "Leche",
+    "precio": 1000.0,
+    "stock": 38
+  },
+  {
+    "fechaVencimiento": "15/11/2024",
+    "refrigeracionRequerida": "SI",
+    "codigo": "ce716382-0267-41fc-894e-e862ddb25bda",
+    "tipo": "Alimento",
+    "nombre": "Manteca",
+    "precio": 15.0,
+    "stock": 5
+  },
+  {
+    "fechaVencimiento": "15/11/2024",
+    "refrigeracionRequerida": "SI",
+    "codigo": "ce716382-0267-41fc-894e-e862ddb25bda",
+    "tipo": "Alimento",
+    "nombre": "Manteca",
+    "precio": 15.0,
+    "stock": 5
+  },
+  {
+    "fechaVencimiento": "15/11/2024",
+    "refrigeracionRequerida": "SI",
+    "codigo": "ce716382-0267-41fc-894e-e862ddb25bda",
+    "tipo": "Alimento",
+    "nombre": "Manteca",
+    "precio": 15.0,
+    "stock": 5
+  },
+  {
+    "fechaVencimiento": "15/11/2024",
+    "refrigeracionRequerida": "SI",
+    "codigo": "ce716382-0267-41fc-894e-e862ddb25bda",
+    "tipo": "Alimento",
+    "nombre": "Manteca",
+    "precio": 15.0,
+    "stock": 5
+  },
+  {
+    "fechaVencimiento": "20/03/2025",
+    "refrigeracionRequerida": "SI",
+    "codigo": "5c223b9d-0881-45c3-afc7-9e7239fd9d46",
+    "tipo": "Alimento",
+    "nombre": "Pollo",
+    "precio": 5000.0,
+    "stock": 20
+  },
+  {
+    "fechaVencimiento": "20/03/2025",
+    "refrigeracionRequerida": "SI",
+    "codigo": "5c223b9d-0881-45c3-afc7-9e7239fd9d46",
+    "tipo": "Alimento",
+    "nombre": "Pollo",
+    "precio": 5000.0,
+    "stock": 20
+  },
+  {
+    "fechaVencimiento": "31/01/2025",
+    "codigo": "35f8beee-429e-47b2-a8f0-5dbf1c91acdb",
+    "tipo": "Alimento",
+    "nombre": "Queso",
+    "precio": 15000.0,
+    "stock": 6
+  },
+  {
+    "fechaVencimiento": "31/01/2025",
+    "codigo": "35f8beee-429e-47b2-a8f0-5dbf1c91acdb",
+    "tipo": "Alimento",
+    "nombre": "Queso",
+    "precio": 15000.0,
+    "stock": 6
+  },
+  {
+    "fechaVencimiento": "31/01/2025",
+    "codigo": "35f8beee-429e-47b2-a8f0-5dbf1c91acdb",
+    "tipo": "Alimento",
+    "nombre": "Queso",
+    "precio": 15000.0,
+    "stock": 6
+  },
+  {
+    "fechaVencimiento": "31/01/2025",
+    "codigo": "35f8beee-429e-47b2-a8f0-5dbf1c91acdb",
+    "tipo": "Alimento",
+    "nombre": "Queso",
+    "precio": 15000.0,
+    "stock": 6
+  }
+]

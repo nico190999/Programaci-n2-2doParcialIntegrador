@@ -1,0 +1,327 @@
+REPORTE INVENTARIO: 
+
+Detalle de productos:
+
+Tipo: Alimento
+Codigo: d13ce9a4-a87f-438e-a737-0bdedaa9e9c1
+Nombre: Arroz
+Precio: 100.0
+Stock: 8
+Fecha de vencimiento: 03/01/2025
+Requiere refrigeración: NO
+
+Tipo: Alimento
+Codigo: d13ce9a4-a87f-438e-a737-0bdedaa9e9c1
+Nombre: Arroz
+Precio: 100.0
+Stock: 8
+Fecha de vencimiento: 03/01/2025
+Requiere refrigeración: NO
+
+Tipo: Alimento
+Codigo: d13ce9a4-a87f-438e-a737-0bdedaa9e9c1
+Nombre: Arroz
+Precio: 100.0
+Stock: 8
+Fecha de vencimiento: 03/01/2025
+Requiere refrigeración: NO
+
+Tipo: Alimento
+Codigo: d13ce9a4-a87f-438e-a737-0bdedaa9e9c1
+Nombre: Arroz
+Precio: 100.0
+Stock: 8
+Fecha de vencimiento: 03/01/2025
+Requiere refrigeración: NO
+
+Tipo: Alimento
+Codigo: 7bf23801-f6bb-44b9-9d30-0912781af555
+Nombre: Fideos
+Precio: 50.0
+Stock: 14
+Fecha de vencimiento: 11/12/2024
+Requiere refrigeración: SI
+
+Tipo: Alimento
+Codigo: 7bf23801-f6bb-44b9-9d30-0912781af555
+Nombre: Fideos
+Precio: 50.0
+Stock: 14
+Fecha de vencimiento: 11/12/2024
+Requiere refrigeración: SI
+
+Tipo: Electrodomestico
+Codigo: 35421049-b771-4ece-a541-1f14d4cadae7
+Nombre: Freezer
+Precio: 45.0
+Stock: 45
+Meses de garantía: 24
+Categoría energetica: C
+
+Tipo: Electrodomestico
+Codigo: 35421049-b771-4ece-a541-1f14d4cadae7
+Nombre: Freezer
+Precio: 45.0
+Stock: 45
+Meses de garantía: 24
+Categoría energetica: C
+
+Tipo: Electrodomestico
+Codigo: 35421049-b771-4ece-a541-1f14d4cadae7
+Nombre: Freezer
+Precio: 45.0
+Stock: 45
+Meses de garantía: 24
+Categoría energetica: C
+
+Tipo: Electrodomestico
+Codigo: 35421049-b771-4ece-a541-1f14d4cadae7
+Nombre: Freezer
+Precio: 45.0
+Stock: 45
+Meses de garantía: 24
+Categoría energetica: C
+
+Tipo: Electrodomestico
+Codigo: 0c1603c8-f0ba-4e5f-bec9-8f6e256ea7e0
+Nombre: Horno Electrico
+Precio: 500000.0
+Stock: 15
+Meses de garantía: 12
+Categoría energetica: A
+
+Tipo: Electrodomestico
+Codigo: 0c1603c8-f0ba-4e5f-bec9-8f6e256ea7e0
+Nombre: Horno Electrico
+Precio: 500000.0
+Stock: 15
+Meses de garantía: 12
+Categoría energetica: A
+
+Tipo: Alimento
+Codigo: 518bb786-fb2d-484e-bc69-d8e42352412a
+Nombre: Jamon
+Precio: 500.0
+Stock: 12
+Fecha de vencimiento: 15/11/2025
+Requiere refrigeración: SI
+
+Tipo: Alimento
+Codigo: 518bb786-fb2d-484e-bc69-d8e42352412a
+Nombre: Jamon
+Precio: 500.0
+Stock: 12
+Fecha de vencimiento: 15/11/2025
+Requiere refrigeración: SI
+
+Tipo: Alimento
+Codigo: 632581d4-4939-4003-9ba9-3848e8866b34
+Nombre: Jugo
+Precio: 50.0
+Stock: 10
+Fecha de vencimiento: 19/11/2027
+Requiere refrigeración: NO
+
+Tipo: Alimento
+Codigo: 632581d4-4939-4003-9ba9-3848e8866b34
+Nombre: Jugo
+Precio: 50.0
+Stock: 10
+Fecha de vencimiento: 19/11/2027
+Requiere refrigeración: NO
+
+Tipo: Alimento
+Codigo: 632581d4-4939-4003-9ba9-3848e8866b34
+Nombre: Jugo
+Precio: 50.0
+Stock: 10
+Fecha de vencimiento: 19/11/2027
+Requiere refrigeración: NO
+
+Tipo: Alimento
+Codigo: 632581d4-4939-4003-9ba9-3848e8866b34
+Nombre: Jugo
+Precio: 50.0
+Stock: 10
+Fecha de vencimiento: 19/11/2027
+Requiere refrigeración: NO
+
+Tipo: Electrodomestico
+Codigo: 93d49ee9-543a-4a38-bc24-9e10a3cdeb5c
+Nombre: Lavarropas
+Precio: 1000000.0
+Stock: 20
+Meses de garantía: 24
+Categoría energetica: C
+
+Tipo: Electrodomestico
+Codigo: 93d49ee9-543a-4a38-bc24-9e10a3cdeb5c
+Nombre: Lavarropas
+Precio: 1000000.0
+Stock: 20
+Meses de garantía: 24
+Categoría energetica: C
+
+Tipo: Electrodomestico
+Codigo: 93d49ee9-543a-4a38-bc24-9e10a3cdeb5c
+Nombre: Lavarropas
+Precio: 1000000.0
+Stock: 20
+Meses de garantía: 24
+Categoría energetica: C
+
+Tipo: Electrodomestico
+Codigo: 93d49ee9-543a-4a38-bc24-9e10a3cdeb5c
+Nombre: Lavarropas
+Precio: 1000000.0
+Stock: 20
+Meses de garantía: 24
+Categoría energetica: C
+
+Tipo: Electrodomestico
+Codigo: 598f260c-98cb-49de-ba10-56ef7425d043
+Nombre: Lavavaillass
+Precio: 200000.0
+Stock: 54
+Meses de garantía: 24
+Categoría energetica: A
+
+Tipo: Electrodomestico
+Codigo: 598f260c-98cb-49de-ba10-56ef7425d043
+Nombre: Lavavaillass
+Precio: 200000.0
+Stock: 54
+Meses de garantía: 24
+Categoría energetica: A
+
+Tipo: Electrodomestico
+Codigo: 598f260c-98cb-49de-ba10-56ef7425d043
+Nombre: Lavavaillass
+Precio: 200000.0
+Stock: 54
+Meses de garantía: 24
+Categoría energetica: A
+
+Tipo: Electrodomestico
+Codigo: 598f260c-98cb-49de-ba10-56ef7425d043
+Nombre: Lavavaillass
+Precio: 200000.0
+Stock: 54
+Meses de garantía: 24
+Categoría energetica: A
+
+Tipo: Alimento
+Codigo: 2d19d7e3-e040-4d4f-98a9-ff79a94fb847
+Nombre: Leche
+Precio: 1000.0
+Stock: 38
+Fecha de vencimiento: 20/11/2024
+Requiere refrigeración: NO
+
+Tipo: Alimento
+Codigo: 2d19d7e3-e040-4d4f-98a9-ff79a94fb847
+Nombre: Leche
+Precio: 1000.0
+Stock: 38
+Fecha de vencimiento: 20/11/2024
+Requiere refrigeración: NO
+
+Tipo: Alimento
+Codigo: 2d19d7e3-e040-4d4f-98a9-ff79a94fb847
+Nombre: Leche
+Precio: 1000.0
+Stock: 38
+Fecha de vencimiento: 20/11/2024
+Requiere refrigeración: NO
+
+Tipo: Alimento
+Codigo: 2d19d7e3-e040-4d4f-98a9-ff79a94fb847
+Nombre: Leche
+Precio: 1000.0
+Stock: 38
+Fecha de vencimiento: 20/11/2024
+Requiere refrigeración: NO
+
+Tipo: Alimento
+Codigo: ce716382-0267-41fc-894e-e862ddb25bda
+Nombre: Manteca
+Precio: 15.0
+Stock: 5
+Fecha de vencimiento: 15/11/2024
+Requiere refrigeración: SI
+
+Tipo: Alimento
+Codigo: ce716382-0267-41fc-894e-e862ddb25bda
+Nombre: Manteca
+Precio: 15.0
+Stock: 5
+Fecha de vencimiento: 15/11/2024
+Requiere refrigeración: SI
+
+Tipo: Alimento
+Codigo: ce716382-0267-41fc-894e-e862ddb25bda
+Nombre: Manteca
+Precio: 15.0
+Stock: 5
+Fecha de vencimiento: 15/11/2024
+Requiere refrigeración: SI
+
+Tipo: Alimento
+Codigo: ce716382-0267-41fc-894e-e862ddb25bda
+Nombre: Manteca
+Precio: 15.0
+Stock: 5
+Fecha de vencimiento: 15/11/2024
+Requiere refrigeración: SI
+
+Tipo: Alimento
+Codigo: 5c223b9d-0881-45c3-afc7-9e7239fd9d46
+Nombre: Pollo
+Precio: 5000.0
+Stock: 20
+Fecha de vencimiento: 20/03/2025
+Requiere refrigeración: SI
+
+Tipo: Alimento
+Codigo: 5c223b9d-0881-45c3-afc7-9e7239fd9d46
+Nombre: Pollo
+Precio: 5000.0
+Stock: 20
+Fecha de vencimiento: 20/03/2025
+Requiere refrigeración: SI
+
+Tipo: Alimento
+Codigo: 35f8beee-429e-47b2-a8f0-5dbf1c91acdb
+Nombre: Queso
+Precio: 15000.0
+Stock: 8
+Fecha de vencimiento: 31/01/2025
+Requiere refrigeración: null
+
+Tipo: Alimento
+Codigo: 35f8beee-429e-47b2-a8f0-5dbf1c91acdb
+Nombre: Queso
+Precio: 15000.0
+Stock: 8
+Fecha de vencimiento: 31/01/2025
+Requiere refrigeración: null
+
+Tipo: Alimento
+Codigo: 35f8beee-429e-47b2-a8f0-5dbf1c91acdb
+Nombre: Queso
+Precio: 15000.0
+Stock: 8
+Fecha de vencimiento: 31/01/2025
+Requiere refrigeración: null
+
+Tipo: Alimento
+Codigo: 35f8beee-429e-47b2-a8f0-5dbf1c91acdb
+Nombre: Queso
+Precio: 15000.0
+Stock: 8
+Fecha de vencimiento: 31/01/2025
+Requiere refrigeración: null
+
+CANTIDAD PRODUCTOS TOTALES: 40
+CANTIDAD PRODUCTOS DE TIPO ALIMENTO: 26
+CANTIDAD PRODUCTOS DE TIPO ELECTRODOMESTICO: 14

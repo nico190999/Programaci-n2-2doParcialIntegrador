@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/nicol/OneDrive/Documentos/NetBeansProjects/PruebaJavafxxCopia/src/com/inventario/excepciones/ProductoNoEncontradoException.java</file>
+            <file>file:/C:/Users/nicol/OneDrive/Documentos/NetBeansProjects/PruebaJavafxxCopia/src/com/inventario/adaptadores/ProductoAdapter.java</file>
+            <file>file:/C:/Users/nicol/OneDrive/Documentos/NetBeansProjects/PruebaJavafxxCopia/src/com/inventario/docs/UML2doParcial.png</file>
+            <file>file:/C:/Users/nicol/OneDrive/Documentos/NetBeansProjects/PruebaJavafxxCopia/src/com/inventario/filtros/FiltroProductos.java</file>
+            <file>file:/C:/Users/nicol/OneDrive/Documentos/NetBeansProjects/PruebaJavafxxCopia/src/com/inventario/gestores/MetodosJson.java</file>
+            <file>file:/C:/Users/nicol/OneDrive/Documentos/NetBeansProjects/PruebaJavafxxCopia/src/com/inventario/gestores/Operacion.java</file>
+            <file>file:/C:/Users/nicol/OneDrive/Documentos/NetBeansProjects/PruebaJavafxxCopia/src/com/inventario/productos/Alimento.java</file>
+            <file>file:/C:/Users/nicol/OneDrive/Documentos/NetBeansProjects/PruebaJavafxxCopia/src/com/inventario/filtros/FiltroProducto.java</file>
+            <file>file:/C:/Users/nicol/OneDrive/Documentos/NetBeansProjects/PruebaJavafxxCopia/src/com/inventario/gestores/GestorInventario.java</file>
+            <file>file:/C:/Users/nicol/OneDrive/Documentos/NetBeansProjects/PruebaJavafxxCopia/src/com/inventario/excepciones/StockInsuficienteException.java</file>
+            <file>file:/C:/Users/nicol/OneDrive/Documentos/NetBeansProjects/PruebaJavafxxCopia/src/com/inventario/productos/Producto.java</file>
+            <file>file:/C:/Users/nicol/OneDrive/Documentos/NetBeansProjects/PruebaJavafxxCopia/src/com/inventario/productos/CategoriasEnergeticas.java</file>
+            <file>file:/C:/Users/nicol/OneDrive/Documentos/NetBeansProjects/PruebaJavafxxCopia/src/com/inventario/gestores/ControladorInventario.java</file>
+            <file>file:/C:/Users/nicol/OneDrive/Documentos/NetBeansProjects/PruebaJavafxxCopia/src/com/inventario/productos/Electrodomestico.java</file>
+            <file>file:/C:/Users/nicol/OneDrive/Documentos/NetBeansProjects/PruebaJavafxxCopia/src/com/inventario/gestores/MetodosBinario.java</file>
+            <file>file:/C:/Users/nicol/OneDrive/Documentos/NetBeansProjects/PruebaJavafxxCopia/src/com/inventario/comparadores/PriceComparator.java</file>
+            <file>file:/C:/Users/nicol/OneDrive/Documentos/NetBeansProjects/PruebaJavafxxCopia/src/com/inventario/comparadores/StockComparator.java</file>
+        </group>
+    </open-files>
+</project-private>
